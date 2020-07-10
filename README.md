@@ -6,7 +6,7 @@ After 4 years at Malt, the biggest french freelancer marketplace, I decided rece
 
 #### 💚 For the moment, my favorite stack is :
 
-* Typescriot
+* Typescript
 * Vue.js
 * Jest
 * SASS
